@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sister",
+  "base_artist": "WON",
+  "createdAt": "2025-12-28T11:23:38.989089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Sister",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/01_Little_Sister_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Sister (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/02_Little_Sister_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like Sister and Brother",
+      "artist": "The Drifters",
+      "has_synced": true,
+      "path": "select/03_Like_Sister_and_Brother_The_Drifters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Sister",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/04_Hey_Sister_Luna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sister",
+      "artist": "Lemonade",
+      "has_synced": false,
+      "path": "select/05_Sister_Lemonade.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sister",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/06_Sister_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sister Morphine - 12\" Version",
+      "artist": "Marianne Faithfull",
+      "has_synced": true,
+      "path": "select/07_Sister_Morphine_-_12__Version_Marianne_Faithfull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sister Morphine (12\" Version)",
+      "artist": "Marianne Faithfull",
+      "has_synced": true,
+      "path": "select/08_Sister_Morphine_(12__Version)_Marianne_Faithfull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Sister Lover",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_My_Sister_Lover_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Sister Lover",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/10_My_Sister_Lover_Oasis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cruel Sister",
+      "artist": "Pentangle",
+      "has_synced": false,
+      "path": "select/11_Cruel_Sister_Pentangle.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Sister",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/12_Little_Sister_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sister Everett",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/13_Sister_Everett_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "So Sister",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_So_Sister_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sonic Sister Love",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/15_Sonic_Sister_Love_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dance Sister Dance (Live)",
+      "artist": "Santana",
+      "has_synced": false,
+      "path": "select/16_Dance_Sister_Dance_(Live)_Santana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sister",
+      "artist": "WON",
+      "has_synced": false,
+      "path": "select/pl_01_Sister_WON.txt"
+    }
+  ]
+}
